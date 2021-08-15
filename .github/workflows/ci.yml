@@ -2,6 +2,7 @@ name: CI
 
 on:
   push:
+    - test-window-references
   pull_request:
   
 jobs:
